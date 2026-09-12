@@ -1,0 +1,6 @@
+{
+  "name": "Socially",
+  "description": "All-in-one social media management, AI studio, agency client management, multi-platform client portal, approvals workflow, brand assets repository, and analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
